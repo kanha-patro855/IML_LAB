@@ -20,6 +20,13 @@ IML-LAB
 │   ├── Linear_SVM_model.py
 │   └── SVM_withSupportVector.py
 │
+├── EXP05_NaiveBayes
+│   ├── 1inputNB_model.py
+│   └── 2inputNB_model.py
+│
+├── EXP06_KMeanClustering
+│   └── k_mean_clustering_model.py
+│
 ├── README.md
 └── requirements.txt
 
@@ -60,6 +67,25 @@ Files:
 
 * `Linear_SVM_model.py`
 * `SVM_withSupportVector.py`
+
+
+### Experiment 5 – Naive Bayes
+
+Implementation of Naive Bayes classifier using one and two input features.
+
+Files:
+
+* `1inputNB_model.py`
+* `2inputNB_model.py`
+
+
+### Experiment 6 – K-Means Clustering
+
+Implementation of K-Means clustering algorithm.
+
+File:
+
+* `k_mean_clustering_model.py`
 
 
 ## Requirements
